@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "symbol": "",
+  "description": "",
+  "creators": [{
+      "address": "",
+      "share": 0
+    },
+    {
+      "address": "",
+      "share": 100
+    }
+  ],
+  "seller_basis_fee_points": 0,
+  "collection": {
+    "name": "",
+    "family": ""
+  }
+}
