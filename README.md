@@ -3,6 +3,8 @@ the create_generative_art in metaplex cli was so slow to generate images for a p
 
 Thus this was born. 
 
+10k images using 32 cores took 20 minutes
+
 ```
 git clone https://github.com/crypt0miester/nft-gen-metaplex-python.git
 
@@ -22,5 +24,7 @@ make sure the traits-configuration-file order of "breakdown" is the same as the 
 change the values in traits-default.json
   
 you can edit the description per nft basis in the code.
+ 
+oh! and adjust the values of TOTAL_IMAGES and pool_size in main.py to for your needs. 
   
 good luck!
