@@ -1,0 +1,7 @@
+env
+metadata/*
+trait-layers/*
+assets/*
+gen_data.py
+traits-configuration.json
+traits-default.json
